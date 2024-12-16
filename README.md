@@ -17,12 +17,12 @@
 ### Steps to run Code
 - Clone the repository
 ```
-git clone https://github.com/RizwanMunawar/yolov5-object-tracking.git
+git clone https:////github.com/sumanth6300/Scene-Perception-and-Object-Tracking.git
 ```
 
 - Goto the cloned folder.
 ```
-cd yolov5-object-tracking
+cd Scene-Perception-and-Object-Tracking
 ```
 
 - Create a virtual envirnoment (Recommended, If you dont want to disturb python packages)
