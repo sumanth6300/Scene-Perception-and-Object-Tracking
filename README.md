@@ -17,7 +17,7 @@
 ### Steps to run Code
 - Clone the repository
 ```
-git clone https:////github.com/sumanth6300/Scene-Perception-and-Object-Tracking.git
+git clone https://github.com/sumanth6300/Scene-Perception-and-Object-Tracking.git
 ```
 
 - Goto the cloned folder.
@@ -96,3 +96,4 @@ python -m streamlit run app.py
   </tr>
  </table>
 
+Here is the article link "https://www.atlantis-press.com/proceedings/icciet-24/126001934" you can refer from this.
